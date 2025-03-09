@@ -1,3 +1,5 @@
+See on tiimiprojekt loodud aine ITI0301 Tarkvaraarenduse Projekt raames. Loojad on Aet-Kadi Kald, Karoliina Kannik ja Faina Dõmša.
+
 # Pony Dash For Spikes Salvation
 
 Pony Dash For Spikes Salvation on võistlusmäng, kus ponid läbivad takistustega ja lobisevate külaelanikega kaardi, et päästa oma sõber Spike. Mängida saab üksinda või kaasmängijatega: võidab see, kes esimesena Spike'i päästab.
